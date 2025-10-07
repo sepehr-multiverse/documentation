@@ -68,6 +68,10 @@
             {
               "title": "Quantum kernel training",
               "url": "/docs/tutorials/quantum-kernel-training"
+            },
+            {
+              "title": "Projected quantum kernel",
+              "url": "/docs/tutorials/projected-quantum-kernel"
             }
           ]
         },
